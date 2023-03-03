@@ -2,7 +2,7 @@
 Quote Generator in HTML, CSS &amp; Javascript
 
 ## Preview
-![**CLICK HERE FOR PREVIEW IMAGE**](https://github.com/prachit082/Random-Quote-Generator/tree/main/assets/Screenshot.jpg)
+![**CLICK HERE FOR PREVIEW IMAGE**](https://github.com/prachit082/Random-Quote-Generator/tree/main/assets/Screenshot.jpg)<br><br>
 [**CLICK HERE FOR LIVE DEMO**](https://prachit082.github.io/Random-Quote-Generator/)
 
 ###
