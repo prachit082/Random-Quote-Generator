@@ -3,6 +3,7 @@ Quote Generator in HTML, CSS &amp; Javascript
 
 ## Preview
 ![**CLICK HERE FOR PREVIEW IMAGE**](https://github.com/prachit082/Random-Quote-Generator/tree/main/assets/Screenshot.jpg)
+[**CLICK HERE FOR LIVE DEMO**](https://prachit082.github.io/Random-Quote-Generator/)
 
 ###
  In this Random Quote Generator, as you can see in the preview image, there is a quote that will be changed randomly, a button, and some icons.
