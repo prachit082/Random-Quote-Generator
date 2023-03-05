@@ -5,7 +5,7 @@ Quote Generator in HTML, CSS &amp; Javascript
 [**CLICK HERE FOR LIVE DEMO**](https://prachit082.github.io/Random-Quote-Generator/)
 
 ###
- In this Random Quote Generator, as you can see in the preview image, there is a quote that will be changed randomly, a button, and some icons.
+ In this Random Quote Generator, as you can see in the preview, there is a quote that will be changed randomly, a button, and some icons.
  
  __Each time you click on the new quote button, you’ll get a new quote. You can also convert a quote to speech, copy a quote, or share a quote on Twitter by clicking the given button.__
 <br>
